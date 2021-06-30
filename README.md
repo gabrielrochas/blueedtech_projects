@@ -1,2 +1,2 @@
 # blueedtech_projectx
-All my projects created during Blue Edtech
+All my projects created during Blue Edtech journey
